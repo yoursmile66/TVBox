@@ -311,14 +311,11 @@ key=0b292c335e5837e947f9409c59228f3e6
 鱼宝恐怖,http://maomao.kandiantv.cn/douyu1.php?id=1165374
 鬼片恐怖,http://maomao.kandiantv.cn/douyu1.php?id=2935323
 小U鬼片,http://maomao.kandiantv.cn/douyu1.php?id=96577
-菜园惊险,http://maomao.kandiantv.cn/douyu1.php?id=1735337
 吃奶滴虫,http://maomao.kandiantv.cn/douyu1.php?id=263824
 变种人片,http://maomao.kandiantv.cn/douyu1.php?id=9651304
 喜剧电影,http://maomao.kandiantv.cn/douyu1.php?id=9292492
 女神电影,http://maomao.kandiantv.cn/douyu1.php?id=747764
 华语经典,http://maomao.kandiantv.cn/douyu1.php?id=434971
-避风影院,http://maomao.kandiantv.cn/douyu1.php?id=9826611
-星星影院,http://maomao.kandiantv.cn/douyu1.php?id=315131
 欧美大片,http://maomao.kandiantv.cn/douyu1.php?id=2793084
 贝爷影厅,http://maomao.kandiantv.cn/douyu1.php?id=252802
 译制国语,http://maomao.kandiantv.cn/douyu1.php?id=2436390
@@ -469,7 +466,6 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 四川综合,#genre#
 凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
-眉山公共,http://live2.scmstv.cn/ggpd/sd/live.m3u8?zsicd
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
@@ -1277,7 +1273,6 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 抖音热歌《大风吹+夜夜夜漫长》,https://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4
 2021年最好听的DJ串烧,https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
 《哑巴新娘...》,https://vdse.bdstatic.com//1a3fdd4def6feeef6a49f4c2bfd9fec2.mp4
-一夜火爆i网络DJ舞曲,https://vdse.bdstatic.com//692b9306c06b72d223c9d714f8ebe579.mp4
 2021年最火伤感音乐,https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4
 2021年网络火爆伤感情歌6首,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
 2021热门伤感DJ,https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4
