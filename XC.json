@@ -87,41 +87,41 @@
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/高中课堂.json"}
 ],
 "parses": [{
-"name": "Web聚合",
-"type": 3,
-"url": "Web"
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
 	}, {
-"name": "Json聚合",
-"type": 3,
-"url": "Demo"
+		"name": "Json聚合",
+		"type": 3,
+		"url": "Demo"
 	}, {
-"name": "xmflv",
-"type": 0,
-"url": "https://jx.xmflv.com/?url=",
-"ext": {
-	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-}  
+		"name": "xmflv",
+		"type": 0,
+		"url": "https://jx.xmflv.com/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+		}  
 	}, {
-"name": "咸鱼",
-"type": 0,
-"url": "https://jx.xyflv.cc/?url=",
-"ext": {
-	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
-}  
+		"name": "咸鱼",
+		"type": 0,
+		"url": "https://jx.xyflv.cc/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+		}  
 	}, {
-"name": "777",
-"type": 0,
-"url": "https://jx.777jiexi.com/player/?url=",
-"ext": {
-	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-}   
+		"name": "777",
+		"type": 0,
+		"url": "https://jx.777jiexi.com/player/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}   
 	}, {
-"name": "jsonplayer",
-"type": 0,
-"url": "https://jx.jsonplayer.com/player/?url=",
-"ext": {
-	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-}   
+		"name": "jsonplayer",
+		"type": 0,
+		"url": "https://jx.jsonplayer.com/player/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}   
 	}],
    "lives":[{"name":"live","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
    "logo":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/LiuHua.gif",
