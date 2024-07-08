@@ -3,7 +3,7 @@
 //🐧裙：711368232
 
 {
-	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;BBAF97D5A6BE80B2332F3FCC17C8FFE5",
+	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;F8783E6C9BB4E38D767D289CD1D0AF20",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -23,7 +23,7 @@
 {"key":"csp_MaoLv","name":"🐴毛驴","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xdys","name":"💥兄弟","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.80yy3.com/"},
+{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy3.com"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"热播","name":"🚀热播","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
