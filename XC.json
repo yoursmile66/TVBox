@@ -8,7 +8,7 @@
 
 	"sites":[
 {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top"},
+{"key":"csp_NewCz","name":"🏭厂长","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ikanbot","name":"❤️Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
