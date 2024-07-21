@@ -3,7 +3,7 @@
 //🐧裙：926953902
 
 {
-	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;296697866B893FCCEC74B532D605558F",
+	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C3561ABBAE0821BE2D5F49EDAD3034FF",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -13,6 +13,7 @@
 {"key":"csp_Ikanbot","name":"❤️Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
 {"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_Zx4k","name":"🚝专线","type":3,"api":"csp_Zx4k","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Jpys","name":"💮金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Dadag","name":"🐢达达龟","type":3,"api":"csp_Dadag","searchable":1,"quickSearch":1,"filterable":1},
