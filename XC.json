@@ -24,7 +24,7 @@
 {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dyxs","name":"🎬电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Quanwk","name":"🥣全网看","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Pptv","name":"🐸皮皮","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Pptv","name":"🐸皮皮","type":3,"api":"csp_Pptv","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.myd04.com"},
 {"key":"csp_MaoLv","name":"🐴毛驴","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_FengGo","name":"🐶疯狗","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_KmeiJu","name":"🌎看美剧","type":3,"api":"csp_KmeiJu","searchable":1,"quickSearch":1,"filterable":1},
