@@ -3,7 +3,7 @@
 //🐧裙：926953902
 
 {
-	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C3561ABBAE0821BE2D5F49EDAD3034FF",
+	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;0559B6AA34618E48F93C166F2D5E7479",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -60,7 +60,7 @@
 {"key":"csp_Djtt","name":"🌈短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Yj1211","name":"📽️JustLive","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
-{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"csp_Yisou","name":"🆎XYQ易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 {"key":"csp_XYQHikerAL_蜡笔","name":"🖍︎蜡笔","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/蜡笔.json"},
