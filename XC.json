@@ -61,7 +61,6 @@
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"csp_Yisou","name":"🆎XYQ易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 {"key":"csp_XYQHikerAL__影搜","name":"😈影搜","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/影搜.json"},
 {"key":"csp_XYQHikerAL__ED3000","name":"0️⃣ED3000","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/ED3000.json"},
 {"key":"csp_YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt","from":"4k|auto"}},
