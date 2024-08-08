@@ -43,7 +43,6 @@ CCTV15,http://223.112.219.174:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 河南卫视,http://api3.52tb.xyz/info?id=31&token=20230227aesvnb
 海南卫视,http://api3.52tb.xyz/info?id=38&token=20230227aesvnb
 吉林卫视,http://api3.52tb.xyz/info?id=40&token=20230227aesvnb
-云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
@@ -77,7 +76,7 @@ CCTV-14 少儿,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLT
 CCTV-15 音乐,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV-4K 超高清,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -88,11 +87,7 @@ CCTV-1 备用V6,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010
 CCTV-5 备用V6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8
 CCTV-5+ 备用V6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m3u8
 CCTV-16 备用V6,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
-CCTV-1 备用V4,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
-CCTV-5 备用V4,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
-CCTV-5+ 备用V4,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
-CCTV-16 备用V4,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
-CCTV-4K 备用V4,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8
+CCTV-5 备用V4,http://112.13.84.36/5gtvtbv52.live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
