@@ -53,6 +53,7 @@
 {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_YGP","name":"🌎叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Djtt","name":"🌈短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Yj1211","name":"📽️JustLive","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
