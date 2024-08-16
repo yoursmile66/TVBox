@@ -3,7 +3,7 @@
 //🐧裙：926953902
 
 {
-	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;B0ABD2C3468741F06FA4BF70BB16B61B",
+	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;E74521D9E0C09E6A3CA2658753C9A1E1",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -21,7 +21,6 @@
 {"key":"csp_SuBaiBai","name":"⛅️素白白","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dyxs","name":"🎬电影先生","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_MaoLv","name":"🐴毛驴","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_FengGo","name":"🐶疯狗","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_Jiaozi","name":"🥣饺子","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Appmq","name":"🍓煤球","type":3,"api":"csp_Appmq","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
