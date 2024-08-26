@@ -3,7 +3,7 @@
 //🐧裙：926953902
 
 {
-	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;9F8D006A5FE0D33CB1BC96BEFEA3250B",
+	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5BD2A8DDBB3F77D3C4BD1ACA0774CF3A",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -25,7 +25,6 @@
 {"key":"csp_Jiaozi","name":"🥣饺子","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Appmq","name":"🍓煤球","type":3,"api":"csp_Appmq","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"热播","name":"🚀热播","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Kekys","name":"👻可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
