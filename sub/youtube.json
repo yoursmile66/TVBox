@@ -1,6 +1,35 @@
 {
   "class": [
     {
+      "type_name": "电影",
+      "type_id": "电影"
+    },
+    {
+      "type_name": "电视剧",
+      "type_id": "电视剧"
+    },
+     {
+      "type_name": "综艺",
+      "type_id": "综艺"
+    },
+   {
+      "type_name": "新闻",
+      "type_id": "新闻"
+    },
+
+    {
+      "type_name": "纪录片",
+      "type_id": "纪录片"
+    },
+    {
+      "type_name": "音乐",
+      "type_id": "音乐"
+    },
+    {
+      "type_name": "体育",
+      "type_id": "体育"
+    },
+    {
       "type_name": "自驾游",
       "type_id": "自驾游"
     },
@@ -27,14 +56,6 @@
     {
       "type_name": "舞蹈",
       "type_id": "舞蹈"
-    },
-    {
-      "type_name": "电影",
-      "type_id": "电影"
-    },
-    {
-      "type_name": "电视剧",
-      "type_id": "电视剧"
     },
     {
       "type_name": "演唱会",
