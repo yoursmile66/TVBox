@@ -80,20 +80,7 @@
 		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
-	}, {
-		"name": "解析",
-		"type": 1,
-		"url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
-		"ext": {
-			"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent": "okhttp/4.9.1"}
-		}  
-	}, {
-		"name": "解析2",
-		"type": 1,
-		"url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url=",
-		"ext": {
-			"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent": "okhttp/4.9.1"}
-		}  
+
 	}, {
 		"name": "虾米",
 		"type": 0,
