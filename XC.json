@@ -3,7 +3,7 @@
 //🐧裙：926953902
 
 {
-	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;02FEF3C146642BB9F549DE5C482194C2",
+	"spider": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;435DEB939629CE4B15EF4FF785BF18D2",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -15,7 +15,6 @@
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"看客","name":"👲看客","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"爱看","name":"❤️爱看","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"比特","name":"✌️比特","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppRZ","name":"🕵忍者","type":3,"playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 {"key":"FreeOK","name":"️🆗FreeOK","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
@@ -43,18 +42,14 @@
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 
 {"key":"玩偶gg","name":"👽玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://www.wogg.net/","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
-{"key":"蜡笔","name":"🖍︎蜡笔","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://labipan.com/","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
+{"key":"蜡笔","name":"🖍︎蜡笔","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://duopan.fun","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
 {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
-{"key":"易搜","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+{"key":"易搜","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"csp_PanSearch","name":"📀盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"纸条搜","name":"📜小纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","share":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"}},
 {"key":"Youtube","name":"⚡Youtube（墙外）","type":3,"api":"csp_Youtube","searchable":1,"changeable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/youtube.json","cookie":""}},
-{"key":"TgYunPanLocal1","name":"🅿TgYunPanLocal（墙外）","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"yunpanshare","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
-{"key":"TgYunPanLocal2","name":"🅿TgYunPanLocal2（墙外）","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"shareAliyun","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
-{"key":"TgYunPanLocal3","name":"🅿TgYunPanLocal3（墙外）","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"kuakeyun","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
-{"key":"TgYunPanLocal4","name":"🅿TgYunPanLocal4（墙外）","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"qixingzhenren","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
-{"key":"TgYunPanLocal5","name":"🅿TgYunPanLocal5（墙外）","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"guaguale115","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+{"key":"TgYunPan|本地","name":"🅿TgYunPan|本地（墙外）","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"csp_Local","name":"📚本地","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1},
 
