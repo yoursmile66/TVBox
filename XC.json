@@ -7,7 +7,7 @@
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
-{"key":"csp_Douban","name":"🔍豆瓣┃先凑合用后续马上更新","type":3,"api":"csp_DouDou","searchable":0,"filterable":1,"changeable":1,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/douban.json"}},
+{"key":"csp_Douban","name":"🔍豆瓣┃出现特殊情况先凑合用","type":3,"api":"csp_DouDou","searchable":0,"filterable":1,"changeable":1,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/douban.json"}},
 {"key":"csp_YGP","name":"🚀豆瓣预告","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
