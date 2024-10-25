@@ -96,7 +96,6 @@ IPTV体育,http://czkeji.vip:9000/rtp/239.252.220.211:5140
 陕西卫视,http://sweetown.fun:4000/rtp/239.3.1.41:8140$720x576
 四川卫视,http://sweetown.fun:4000/rtp/239.3.1.29:8288$720x576
 三沙卫视,http://sweetown.fun:4000/rtp/239.3.1.155:4120$720x576
-三沙卫视,http://123.123.167.240:8000/rtp/239.3.1.155:4120$720x576
 三沙卫视,http://114.252.229.100:8000/rtp/239.3.1.155:4120
 天津卫视,http://60.7.56.33:4000/rtp/239.253.92.91:8021$1920x1080
 西藏卫视,http://114.252.229.100:8000/rtp/239.3.1.47:8164$720x576
@@ -203,9 +202,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8
@@ -341,9 +337,6 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 金鹰卡通,http://oa.hnjcwl.top:18888/udp/239.76.245.120:1234
 哈哈炫动,http://oa.hnjcwl.top:18888/udp/239.76.252.133:9000
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-金鹰卡通,http://www.ksjgj.cn:8888/rtp/239.49.8.33:8000
-优漫卡通,http://www.ksjgj.cn:8888/rtp/239.49.8.119:8000
-优漫卡通,http://www.ksjgj.cn:8888/rtp/239.49.0.21:8160
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
