@@ -3,8 +3,8 @@ CCTV-1,http://www.furymax.top:85/rtp/239.254.96.96:8550
 CCTV-1,http://60.7.56.33:4000/rtp/239.253.92.83:8012$1920x1080
 CCTV-2,http://sweetown.fun:4000/rtp/239.3.1.60:8084$1920x1080
 CCTV-2,http://60.7.56.33:4000/rtp/239.253.92.190:6065$1920x1080
-CCTV-3,http://125.123.215.188:4022/udp/233.50.200.107:5140
-CCTV-3,http://27.19.102.204:2701/rtp/239.69.1.122:10370
+CCTV-3,http://223.145.224.215:8000/udp/239.76.246.153:1234
+CCTV-3,http://183.94.1.118:8801/tsfile/live/0003_1.m3u8
 CCTV-4,http://60.7.56.33:4000/rtp/239.253.93.192:6370$1920x1080
 CCTV-4,http://sweetown.fun:4000/rtp/239.3.1.105:8092$1920x1080
 CCTV-5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$1920x1080
@@ -282,14 +282,6 @@ key=0b292c335e5837e947f9409c59228f3e6
 绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 南宁影院,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 乌克兰影,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-豆瓣高分,http://maomao.kandiantv.cn/douyu1.php?id=8770422
-漫威剧情,http://maomao.kandiantv.cn/douyu1.php?id=6140589
-霍格沃茨,http://maomao.kandiantv.cn/douyu1.php?id=8814650
-鱼宝恐怖,http://maomao.kandiantv.cn/douyu1.php?id=1165374
-鬼片恐怖,http://maomao.kandiantv.cn/douyu1.php?id=2935323
-变种人片,http://maomao.kandiantv.cn/douyu1.php?id=9651304
-女神电影,http://maomao.kandiantv.cn/douyu1.php?id=747764
-华语经典,http://maomao.kandiantv.cn/douyu1.php?id=434971
 万州影视,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
@@ -452,8 +444,7 @@ ZETV郑州教育台,http://ik6.iptv8.net:8888/udp/225.1.4.191:1241
 大太平洋,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8
 生命脉动,http://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
 飞碟之谜,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
-飞碟之谜2,http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
-飞碟之谜3,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
+飞碟之谜2,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 远方的家,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/162d7e29c3da4aab82ad47b6e2d9e7b4/4000.m3u8
 美丽中国说,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 美丽中国自然,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
