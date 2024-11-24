@@ -3,7 +3,6 @@ CCTV-1,http://www.furymax.top:85/rtp/239.254.96.96:8550
 CCTV-1,http://60.7.56.33:4000/rtp/239.253.92.83:8012$1920x1080
 CCTV-2,http://sweetown.fun:4000/rtp/239.3.1.60:8084$1920x1080
 CCTV-2,http://60.7.56.33:4000/rtp/239.253.92.190:6065$1920x1080
-CCTV-3,http://223.145.224.215:8000/udp/239.76.246.153:1234
 CCTV-3,http://183.94.1.118:8801/tsfile/live/0003_1.m3u8
 CCTV-4,http://60.7.56.33:4000/rtp/239.253.93.192:6370$1920x1080
 CCTV-4,http://sweetown.fun:4000/rtp/239.3.1.105:8092$1920x1080
@@ -44,7 +43,6 @@ CCTV5+,http://ik6.iptv8.net:8888/udp/225.1.4.75:1104
 东南卫视,http://60.7.56.33:4000/rtp/239.253.92.201:6146$1920x1080
 东南卫视,http://sweetown.fun:4000/rtp/239.3.1.156:8148$1920x1080
 甘肃卫视,http://sweetown.fun:4000/rtp/239.3.1.49:8188$720x576
-广西卫视,http://www.dsmcloud.top:8888/udp/239.81.0.107:4056$1920x1080
 贵州卫视,http://sweetown.fun:4000/rtp/239.3.1.149:8076$1920x1080
 海南卫视,http://sweetown.fun:4000/rtp/239.3.1.45:8304$720x576
 吉林卫视,http://sweetown.fun:4000/rtp/239.3.1.240:8172$1920x1080
@@ -290,7 +288,6 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 key=0b292c335e5837e947f9409c59228f3e6
-名侦探柯南灰原哀物语～黑铁的神秘列车,https://ukzyvod3.ukubf5.com/20230710/XbkjgUOX/2000kb/hls/index.m3u8
 北京卡酷少儿,http://ik6.iptv8.net:8888/udp/225.1.4.48:1077
 湖南金鹰卡通,http://ik6.iptv8.net:8888/udp/225.1.4.49:1078
 广东嘉佳卡通,http://ik6.iptv8.net:8888/udp/225.1.4.92:1121
