@@ -1,4 +1,23 @@
 央视,#genre#
+CCTV1,http://117.161.12.116/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+CCTV2,http://117.161.12.116/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+CCTV3,http://117.161.12.116/live/program/live/cctv38m/8000000/mnf.m3u8
+CCTV4,http://117.161.12.116/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+CCTV5,http://117.161.12.116/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+,http://117.161.12.116/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+CCTV6,http://117.161.12.116/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+CCTV7,http://117.161.12.116/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8,http://117.161.12.116/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+CCTV9,http://117.161.12.116/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+CCTV10,http://117.161.12.116/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+CCTV11,http://117.161.12.116/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+CCTV12,http://117.161.12.116/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+CCTV13,http://117.161.12.116/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+CCTV14,http://117.161.12.116/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+CCTV15,http://117.161.12.116/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+CCTV16,http://117.161.12.116/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+CCTV16-4K,http://117.161.12.116/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV17,http://117.161.12.116/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 CCTV-1,http://www.furymax.top:85/rtp/239.254.96.96:8550
 CCTV-1,http://60.7.56.33:4000/rtp/239.253.92.83:8012$1920x1080
 CCTV-2,http://sweetown.fun:4000/rtp/239.3.1.60:8084$1920x1080
@@ -11,16 +30,39 @@ CCTV-5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$1920x1080
 CCTV-5,http://sweetown.fun:4000/rtp/239.3.1.173:8001$1920x1080
 CCTV-5+,http://60.7.56.33:4000/rtp/239.253.92.82:8013$1920x1080
 CCTV-6,http://60.7.56.33:4000/rtp/239.253.92.193:6058$1920x1080
-CCTV-7,http://sweetown.fun:4000/rtp/239.3.1.61:8104$1920x1080
 CCTV-9,http://sweetown.fun:4000/rtp/239.3.1.62:8112$1920x1080
 CCTV-11,http://sweetown.fun:4000/rtp/239.3.1.152:8120$1920x1080
 CCTV-12,http://60.7.56.33:4000/rtp/239.253.92.197:6062$1920x1080
 CCTV-13,http://sweetown.fun:4000/rtp/239.3.1.124:8128$1920x1080
 CCTV-15,http://sweetown.fun:4000/rtp/239.3.1.153:8136$1920x1080
-CCTV-17,http://sweetown.fun:4000/rtp/239.3.1.151:8144$1920x1080
 
 
 卫视,#genre#
+江苏卫视,http://117.161.12.116/live/program/live/jswshd8m/8000000/mnf.m3u8
+广西卫视,http://117.161.12.116/live/program/live/gxwshd8m/8000000/mnf.m3u8
+四川卫视,http://117.161.12.116/live/program/live/scwshd/8000000/mnf.m3u8
+湖南卫视,http://117.161.12.116/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+浙江卫视,http://117.161.12.116/live/program/live/zjwshd8m/8000000/mnf.m3u8
+东方卫视,http://117.161.12.116/live/program/live/dfwshd8m/8000000/mnf.m3u8
+北京卫视,http://117.161.12.116/live/program/live/bjwshd8m/8000000/mnf.m3u8
+天津卫视,http://117.161.12.116/live/program/live/tjwshd8m/8000000/mnf.m3u8
+辽宁卫视,http://117.161.12.116/live/program/live/lnwshd8m/8000000/mnf.m3u8
+安徽卫视,http://117.161.12.116/live/program/live/ahwshd8m/8000000/mnf.m3u8
+黑龙江卫视,http://117.161.12.116/live/program/live/hljwshd8m/8000000/mnf.m3u8
+广东卫视,http://117.161.12.116/live/program/live/gdwshd8m/8000000/mnf.m3u8
+深圳卫视,http://117.161.12.116/live/program/live/szwshd8m/8000000/mnf.m3u8
+湖北卫视,http://117.161.12.116/live/program/live/hubeiws8m/8000000/mnf.m3u8
+吉林卫视,http://117.161.12.116/live/program/live/jlwshd8m/8000000/mnf.m3u8
+山东卫视,http://117.161.12.116/live/program/live/sdws8m/8000000/mnf.m3u8
+江西卫视,http://117.161.12.116/live/program/live/jxws8m/8000000/mnf.m3u8
+河南卫视,http://117.161.12.116/live/program/live/hnwshd8m/8000000/mnf.m3u8
+河北卫视,http://117.161.12.116/live/program/live/hbwshd8m/8000000/mnf.m3u8
+甘肃卫视,http://117.161.12.116/live/program/live/gswshd8m/8000000/mnf.m3u8
+重庆卫视,http://117.161.12.116/live/program/live/cqws8m/8000000/mnf.m3u8
+东南卫视,http://117.161.12.116/live/program/live/dnwshd8m/8000000/mnf.m3u8
+云南卫视,http://117.161.12.116/live/program/live/ynwshd8m/8000000/mnf.m3u8
+贵州卫视,http://117.161.12.116/live/program/live/gzwshd8m/8000000/mnf.m3u8
+海南卫视,http://117.161.12.116/live/program/live/hainanwshd8m/8000000/mnf.m3u8
 广东卫视,http://sweetown.fun:4000/rtp/239.3.1.142:8048$1920x1080
 浙江卫视,http://sweetown.fun:4000/rtp/239.3.1.137:8036$1920x1080
 湖北卫视,http://sweetown.fun:4000/rtp/239.3.1.138:8044$1920x1080
@@ -986,7 +1028,6 @@ key=0b292c335e5837e947f9409c59228f3e6
 张杰 Ⅰ 浮诛,https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F592cfc9d5b5bc41242144504ccf1f9f9df9d15b863f6f33c610e552faf629cd9
 张杰 Ⅰ 就算没有如果,https://vdse.bdstatic.com//b362a1c2ecbc60b18d3dc06cdc97f142.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A58%3A51Z%2F-1%2Fhost%2Ff5f960beaff319951e978ff3850b31434a5d64f13c03c9724e988c251426270d
 胡夏 Ⅰ 只问你肯不肯,https://vdse.bdstatic.com/d4463cd83c0c47fba7ce65c71ad94bbb.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F09b9a33c3ded7584f68a3b875a10ba6a021d74f32e4144c2c0327f05c57abfdc
-要不要买菜 Ⅰ 下山,https://vdse.bdstatic.com/e2d35750d461a6d524080c7a3c4cb7a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F4fbaf22be415d855635ea3633a0f2fa9460bfb7cb3a13f2295a12b85245e0598
 张碧晨/赵丽颖 Ⅰ 望,https://vdse.bdstatic.com/25f5ae931f851bf09c48abaebe5d6f8d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fbeb15438a125af0e53bc38c98b3f304da2e2c0f1f61103ce81a9df486dc138a3
 
 
