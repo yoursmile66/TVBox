@@ -1,10 +1,8 @@
 央视,#genre#
-CCTV-1,http://www.furymax.top:85/rtp/239.254.96.96:8550
 CCTV-1,http://60.7.56.33:4000/rtp/239.253.92.83:8012$1920x1080
 CCTV-2,http://sweetown.fun:4000/rtp/239.3.1.60:8084$1920x1080
 CCTV-2,http://60.7.56.33:4000/rtp/239.253.92.190:6065$1920x1080
 CCTV-3,http://223.166.234.215:7777/tsfile/live/0003_1.m3u8
-CCTV-3,http://124.230.56.27:55555/udp/239.76.246.153:1234
 CCTV-4,http://60.7.56.33:4000/rtp/239.253.93.192:6370$1920x1080
 CCTV-4,http://sweetown.fun:4000/rtp/239.3.1.105:8092$1920x1080
 CCTV-5,http://60.7.56.33:4000/rtp/239.253.92.181:6046$1920x1080
@@ -280,7 +278,6 @@ key=0b292c335e5837e947f9409c59228f3e6
 鄂托克旗电视台,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
 鄂温克电视台,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live162700604855057.m3u8?zneimd
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
-东北戏曲频道,http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=b234e6c41620650518?zjild
 延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
