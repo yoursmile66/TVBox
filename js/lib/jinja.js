@@ -1,3 +1,4 @@
+
 /*!
  * Jinja Templating for JavaScript v0.1.8
  * https://github.com/sstur/jinja-js
