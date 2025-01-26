@@ -172,24 +172,20 @@ CCTV-5+,http://60.7.56.33:4000/rtp/239.253.92.82:8013$1920x1080
 CCTV-6,http://60.7.56.33:4000/rtp/239.253.92.193:6058$1920x1080
 CCTV-7,http://111.160.17.2:59901/tsfile/live/0001_8.m3u8
 CCTV-11,http://202.100.46.58:9901/tsfile/live/1012_1.m3u8
-CCTV-11,http://124.128.73.58:9901/tsfile/live/0011_1.m3u8
 CCTV-11,http://58.17.116.69:9908/tsfile/live/0001_12.m3u8
 CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
 CCTV-12,http://60.7.56.33:4000/rtp/239.253.92.197:6062$1920x1080
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
 CCTV-13,http://58.17.116.69:9908/tsfile/live/0001_14.m3u8
-CCTV-13,http://61.173.144.157:9901/tsfile/live/0013_1.m3u8
 CCTV-13,http://202.100.46.58:9901/tsfile/live/1013_1.m3u8
 CCTV-13,http://123.129.70.178:9901/tsfile/live/0013_1.m3u8
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8
 CCTV-15,http://61.156.228.12:8154/tsfile/live/0015_1.m3u8
-CCTV-15,http://124.128.73.58:9901/tsfile/live/0015_1.m3u8
 CCTV-15,http://202.100.46.58:9901/tsfile/live/1015_1.m3u8
 CCTV-15,http://61.136.67.238:50085/tsfile/live/0015_1.m3u8
 
 
 卫视,#genre#
-湖南卫视,http://124.128.73.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路76』
 湖南卫视,http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路77』
 浙江卫视,http://wouu.net:9977/udp/239.93.0.124:5140$LR•IPV4『线路157』
 浙江卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9605&tk=2894ccdba8fc$LR•IPV4『线路129』
@@ -229,14 +225,12 @@ CCTV-15,http://61.136.67.238:50085/tsfile/live/0015_1.m3u8
 广东卫视,http://123.129.70.178:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路88』
 广西卫视,http://58.17.116.69:9908/tsfile/live/0001_42.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路53』
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路54』
-广西卫视,http://61.173.144.157:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路55』
 广西卫视,http://61.136.67.238:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路56』
 厦门卫视,http://202.100.46.58:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路26』
 厦门卫视,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?zfud$LR•IPV4『线路30』
 厦门卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7066&tk=2894ccdba8fc$LR•IPV4『线路33』
 南方卫视,http://114.252.238.87:8000/udp/239.3.1.161:8001$LR•IPV4『线路3』
 南方卫视,http://123.113.187.204:8000/udp/239.3.1.161:8001$LR•IPV4『线路4』
-南方卫视,http://111.196.135.75:8686/udp/239.3.1.161:8001$LR•IPV4『线路5』
 南方卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5759&tk=2894ccdba8fc$LR•IPV4『线路7』
 南方卫视,http://123.117.237.15:8680/udp/239.3.1.161:8001$LR•IPV4『线路15』
 南方卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4671&tk=7877e7cc41c7$LR•IPV4『线路18』
