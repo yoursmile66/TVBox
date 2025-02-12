@@ -84,7 +84,7 @@
 {"key":"少儿","name":"🅱️少儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/少儿教育.json","cookie":""}},
 {"key":"小学","name":"🅱️小学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/小学课堂.json","cookie":""}},
 {"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/初中课堂.json","cookie":""}},
-{"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/高中课堂.json","cookie":""}},
+{"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/高中课堂.json","cookie":""}}
 ],
 "parses": [{
 		"name": "Web聚合",
