@@ -9,6 +9,7 @@
 	"sites":[
 {"key":"csp_DouBan","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouBan","searchable":0,"filterable":1,"changeable":1},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
 {"key":"追剧","name":"✈追剧","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"daHR0cDovL3YubGt1eXMuY24="},
 {"key":"csp_APPTT","name":"🗺图图","type":3,"api":"csp_APPTT","playerType":1,"ext":"cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="},
