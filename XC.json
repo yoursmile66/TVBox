@@ -3,7 +3,7 @@
 //🐧裙：926953902
 
 {
-	"spider": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;83DB07B13915671D0C915E0FE19B0ED9",
+	"spider": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;841DB8F51844389733204EAB0781B0DA",
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
@@ -27,7 +27,6 @@
 {"key":"csp_Lggys","name":"💗️攻阁","type":3,"api":"csp_Lggys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/jianpian.json"},
 {"key":"csp_Xlys","name":"🧲修罗","type":3,"api":"csp_Xlys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kanqiu","name":"⚾看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
