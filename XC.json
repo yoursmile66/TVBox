@@ -10,7 +10,7 @@
 {"key":"csp_DouBan","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouBan","searchable":0,"filterable":1,"changeable":1},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="},
+{"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ReBo","name":"☀️热播","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
