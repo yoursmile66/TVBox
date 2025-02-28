@@ -16,7 +16,7 @@
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
 {"key":"csp_Nongm","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},
 {"key":"csp_Lkdy","name":"🏔️来看","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"🔥骚火","name":"🔥骚火","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/骚火.json"},
 {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/"},
 {"key":"csp_Wetv","name":"🚗尘落","type":3,"api":"csp_Wetv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jiaozi","name":"🥣饺子","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
