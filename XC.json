@@ -1,6 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 //🐧裙：926953902
+//TG裙：https://t.me/zhongnanganhuoku
 
 {
 	"spider": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;7F23556C0125733C24A743F1CF0B2C23",
@@ -100,9 +101,9 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}   
 	}, {
-		"name": "云2",
+		"name": "HLS",
 		"type": 0,
-		"url": "https://jx.yparse.com/index.php?url=",
+		"url": "https://jx.hls.one/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}   
