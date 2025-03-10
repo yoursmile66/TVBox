@@ -1,4 +1,4 @@
-###  目前接口只支持原版【OK影视】【FM影视】【影视仓】
+###  目前接口只支持原版【OK影视】【FM影视】【影视仓】【EasyBox】
 
 ###  下载地址
  - [TVbox开源版](https://wws.lanzouv.com/b03j4ulyh#999)    
