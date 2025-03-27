@@ -4,7 +4,6 @@ CCTV1,http://58.243.224.244:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&a
 CCTV1,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
 CCTV1,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://175.31.21.146:4480/hls/1/index.m3u8
-CCTV1,http://1752e145z8.vicp.fun:35455/gaoma/cctv1.m3u8
 CCTV1,http://1.itv.nctv.top:7777/gaoma/cctv1.m3u8
 CCTV1,http://58.220.211.90:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid$LR•IPV4『线路274』
 CCTV1,http://58.220.211.90:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路275』
@@ -25,7 +24,6 @@ CCTV2,http://yc.myds.me:35455/gaoma/cctv2.m3u8
 CCTV2,http://39.164.160.249:9901/tsfile/live/0002_1.m3u8
 CCTV2,http://175.31.21.146:4480/hls/2/index.m3u8
 CCTV2,http://116.128.243.121:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV2,http://1752e145z8.vicp.fun:35455/gaoma/cctv2.m3u8
 CCTV2,http://1.itv.nctv.top:7777/gaoma/cctv2.m3u8
 CCTV2,http://36.105.100.208:35455/gaoma/cctv2.m3u8
 CCTV2,http://3501776.xyz:35455/gaoma/cctv2.m3u8
@@ -42,7 +40,6 @@ CCTV3,http://yc.myds.me:35455/gaoma/cctv3.m3u8
 CCTV3,http://222.134.19.31:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://60.223.224.176:8888/newlive/live/hls/4/live.m3u8
 CCTV3,http://113.140.12.230:8888/newlive/live/hls/4/live.m3u8
-CCTV3,http://1752e145z8.vicp.fun:35455/gaoma/cctv3.m3u8
 CCTV3,http://1.itv.nctv.top:7777/gaoma/cctv3.m3u8
 CCTV3,http://221.2.148.205:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路34』
 CCTV3,http://36.105.100.208:35455/gaoma/cctv3.m3u8
@@ -59,7 +56,6 @@ CCTV3,http://zjzcf.synology.me:35455/gaoma/cctv3.m3u8
 CCTV4,http://124.93.18.238:9003//hls/4/index.m3u8
 CCTV4,http://58.243.224.244:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4,http://huashetou.fun:35455/gaoma/cctv4.m3u8
-CCTV4,http://1752e145z8.vicp.fun:35455/gaoma/cctv4.m3u8
 CCTV4,http://1.itv.nctv.top:7777/gaoma/cctv4.m3u8
 CCTV4,http://1.itv.nctv.top:7777/gaoma/cctv4k_10m.m3u8
 CCTV4,http://183.66.15.146:60901/tsfile/live/0004_1.m3u8?key=txiptv$LR•IPV4『线路190』
@@ -95,7 +91,6 @@ CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 CCTV5+,http://home.kuaidi521.com:35455/gaoma/cctv5p.m3u8
 CCTV5+,http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
 CCTV5+,http://1.itv.nctv.top:7777/gaoma/cctv5p.m3u8
-CCTV5+,http://1752e145z8.vicp.fun:35455/gaoma/cctv5p.m3u8
 CCTV5+,http://112.81.218.254:35455/gaoma/cctv5p.m3u8
 CCTV5+,http://222.219.183.103:8089/hls/19/index.m3u8
 CCTV5+,http://183.184.228.183:9003//hls/6/index.m3u8
@@ -115,7 +110,6 @@ CCTV7,http://8.138.7.223/tv/cctv7.m3u8
 CCTV7,http://60.223.224.176:8888/newlive/live/hls/9/live.m3u8
 CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV7,http://1752e145z8.vicp.fun:35455/gaoma/cctv7.m3u8
 CCTV7,http://huashetou.fun:35455/gaoma/cctv7.m3u8
 CCTV7,http://yc.myds.me:35455/gaoma/cctv7.m3u8
 CCTV7,http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
@@ -164,7 +158,6 @@ CCTV9,http://60.223.224.176:8888/newlive/live/hls/11/live.m3u8?
 CCTV9,http://504099760.qicp.vip:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://222.219.183.103:8089/hls/9/index.m3u8
 CCTV9,http://zjzcf.synology.me:35455/gaoma/cctv9.m3u8
-CCTV10,http://1752e145z8.vicp.fun:35455/gaoma/cctv10.m3u8
 CCTV10,http://42.225.117.174:11199/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://112.81.218.254:35455/gaoma/cctv10.m3u8
 CCTV10,http://39.164.160.249:9901/tsfile/live/0010_1.m3u8
