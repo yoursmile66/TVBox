@@ -1,0 +1,18 @@
+{
+  "panOrder": "uc|p123|quark|ali|yd|ty|115###原畫|普畫",
+  "aliToken": "",
+  "quarkCookie": "",
+  "ucCookie": "",
+  "ucToken": "",
+  "ucUt": "",
+  "115Cookie": "",
+  "pwdRb115": "",//115 删除码
+  "goServerUrl": "http://127.0.0.1:9966",
+  "ydAuth": "",//请求头中authorization 取basic 后面的值
+  "tyAuth": "",//账号|密码
+  "p123Auth":"",//账号|密码
+  "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则使用外置代理
+  "tgPic": "false",//tgsou 图片显示与否
+  //每次更新jar 该值都必须更新
+  "exeMd5": "mZ+DRN8Y1kwiS/YALsYWlRgttU14KKUGExJ2aGsfv311Aw3MqTV2cYbIJADtxgErWph3gQmmlDO9pfXckmuEEI6RaJW5PJGXhjB9rbmqp3lCIBfuEO7PgUquyU76ASTxPsdPiKBkCJB1FVEn90LsaXM09cXWv2tBz5cmyXURNcJgonYx+LD6YIX52M0ufOMFqjOpgJm/4hGcBjqMQcnXYtdvdhM+O/8LBd9ckOE1YpV8/31aYsIw0CiAofE4vdwH5TRhnqk+jC1vNjDZFkCGWweGg81x0q8UPkA3olsVSm+BOkVBCD7PptWQqgCqXBxmlsi6PpG37sr2HolVmiT7gDNc5ryHgEhv4zzWmkoSi5OmqpYWe2IG380CpCGhPDL3GAqlbelvzKva3/co4VYWMxwY3injY/0YbnYx9orT"
+}
