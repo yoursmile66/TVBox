@@ -1,5 +1,5 @@
 {
-  "panOrder": "quark|uc|ali|p123|ty|yd|115###原畫|普畫",
+  "panOrder": "quark|p123|uc|ali|ty|yd|115###原畫|普畫",
   "aliToken": "",
   "quarkCookie": "",
   "ucCookie": "",
@@ -14,5 +14,5 @@
   "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则使用外置代理
   "tgPic": "false",//tgsou 图片显示与否
   //每次更新jar 该值都必须更新
-  "exeMd5": "WgbbCqn+5zYnwVVUG5Ld1VuJ8rDHvrI3j7SZvOGB1CyFQ69hzNBfDnGlkYy7i94AR302MH81Z5j7dJkzac9pYuVOI0T+bBtNCM5eMxHxylI+zB8ABUOdfmSMMNhXBrnXEGc8Orj998w3yMmznr4PDxCcE+DL4wzzPI7kaYrmVe6BkgCCiALrZ5LtgY/Q2bBFdZXPLENBlZ1Qp1Yi+ksWmCs13TZ4+aaULDPACDtqFMw41rSJHHFqn59DjtCBjQgipcMMp0a0l3I2V6n2YJN0AtPnKhmeLkfDamwKyoUAAoA6uEKrWJS0xPqNzHOUKQs6VzIxyEXbaOplQk4BDNnaTqEhNh1TLUMMAbec6ThHh96BPqBdnSBKDWNixeTusgD8BVJsKubEizDnH0fbQCDXheYJHLpoRyGe9M2B01XIDKSInmzMNfhQjdIHXWttYey9ojw2BXrT/HI3fTX1mk/o"
+  "exeMd5": "QN1U3agM5rngeNX/r84mGLPWnHIp28lhS6e0fp8K4tgncPTXX/+9jj8YF2pME3GY6ncg3gi+CpPypC2T4JiUcrhC6Vkm0a+21QJyyd/EdG62aJzYSgqQvtIPoF2c56EFM35yUmjtGsd0cV63YX9WroBJhMJ0Wp8NeS6kdZ9qxTw8NW4jiujazVp3HZzp4HnP0Vys07wQpiMo1Rp3PG1op2p623QSZl/0swvyV7rZaSP5vkefEjWqfAkIXnYCaQ4e4+PhUke/EmeOhhkA5ScQFFg8KP24DSxLxsxSJL2QWGQY9X2AdOttoIFTjZDf2cSPUbjqoe/0inv+x+fhOPLBYg1+QNqMGLJLNHSwQGYJSMtuPJ16Jf1i7Sj5mUizpu0UsqMwf0bZYGcC+f2qZCpSoJTkhVFL2pk26cAfAocbq/X2RKHmqxcLT8BnlpXV0I8wQFb6JUMY7Zpvlw47DT/W"
 }
