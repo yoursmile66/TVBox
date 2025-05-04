@@ -15,7 +15,6 @@ CCTV3,http://222.134.19.31:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&aut
 CCTV3,http://222.134.19.31:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://60.223.224.176:8888/newlive/live/hls/4/live.m3u8
 CCTV3,http://113.140.12.230:8888/newlive/live/hls/4/live.m3u8
-CCTV3,http://112.46.85.60:8009/hls/3/index.m3u8
 CCTV3,http://218.29.168.146:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://113.140.12.230:8888/newlive/live/hls/5/live.m3u8
@@ -38,7 +37,6 @@ CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?t
 CCTV7,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV7,http://222.219.183.103:8089/hls/7/index.m3u8
 CCTV8,http://222.134.19.31:352/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://112.46.85.60:8009/hls/8/index.m3u8
 CCTV8,http://113.140.12.230:8888/newlive/live/hls/9/live.m3u8
 CCTV8,http://60.223.224.176:8888/newlive/live/hls/10/live.m3u8?
 CCTV8,http://61.133.10.250:352/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -48,8 +46,11 @@ CCTV10,http://113.140.12.230:8888/newlive/live/hls/11/live.m3u8
 CCTV10,http://222.219.183.103:8089/hls/10/index.m3u8
 CCTV10,http://60.223.224.176:8888/newlive/live/hls/12/live.m3u8
 CCTV10,http://182.37.169.94:352/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://223.145.224.103:8000/udp/239.76.245.251:1234
-CCTV12,http://223.145.224.103:8000/udp/239.76.246.162:1234
+CCTV11,http://110.40.64.98:8085/bptv/10000100000000050000000003870754.m3u8
+CCTV11,http://42.48.17.230:808/hls/12/index.m3u8
+CCTV11,http://39.137.75.230/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
+CCTV12,http://42.48.17.230:808/hls/13/index.m3u8
+CCTV12,http://220.169.111.157:10087/udp/239.76.246.162:1234
 CCTV13,http://61.163.181.78:9901/tsfile/live/0013_1.m3u8
 CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -97,7 +98,6 @@ CCTV15,http://61.156.228.12:8154/tsfile/live/0015_1.m3u8
 广西卫视,http://115.149.139.141:10001/tsfile/live/1037_1.m3u8?blog.ntnas.top
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8
-河北卫视,http://116.131.190.210:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://60.8.49.38:352/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://115.149.139.141:10000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://115.149.139.141:10001/tsfile/live/1027_1.m3u8
