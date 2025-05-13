@@ -1,5 +1,4 @@
 央视,#genre#
-CCTV1,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://175.31.21.146:4480/hls/1/index.m3u8
 CCTV1,http://58.220.211.90:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid$LR•IPV4『线路274』
 CCTV1,http://58.220.211.90:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路275』
@@ -16,7 +15,6 @@ CCTV3,http://222.134.19.31:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&aut
 CCTV3,http://60.223.224.176:8888/newlive/live/hls/4/live.m3u8
 CCTV3,http://113.140.12.230:8888/newlive/live/hls/4/live.m3u8
 CCTV3,http://218.29.168.146:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://113.140.12.230:8888/newlive/live/hls/5/live.m3u8
 CCTV4,http://60.223.224.176:8888/newlive/live/hls/5/live.m3u8?
 CCTV4,http://222.219.183.103:8089/hls/4/index.m3u8
@@ -75,7 +73,6 @@ CCTV15,http://61.156.228.12:8154/tsfile/live/0015_1.m3u8
 安徽卫视,http://115.149.139.141:10000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://115.149.139.141:10000/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
