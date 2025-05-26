@@ -14,5 +14,5 @@
   "proxy": "http://127.0.0.1:1072",//默认代理端口 留空则使用外置代理
   "tgPic": "false",//tgsou 图片显示与否
   //每次更新jar 该值都必须更新
-  "exeMd5": "thVvnZGuGpDwaerSiDz4JWaHtPQvjxQTRLu51Za9ZnVrJkfZXbGgyD+HgvV8W6fWsXiCdtTqCx0Vc0XevoPQNpCWdohR9FqpyKP0q+TKi6Fh5dckolvnbDKVcMSHuBhTgLxngkQRWg3F5k7GlMuNepzHX3GMe4BXna2GQyUTKARpykLnXlJRMGyixbG7wRnpvdvdU7VCB1EL1wqR+nvimtUNn7WmoIT6oLx6NVkRhrvvu7iaBOuCAwDx3+F9wooP3QCytymwfG1qnoTOIeZuFNT6hLjjlu9uKkwBGfiE1eyuxMHA64uuviJIFlo8I+Fwfk00KIzarTHduQntQBF1J9Ey5VOooUHbGnqTuWoj1kj8K/UqUaFAU6RGXbCAcYKfZm9NY/r+v3bTl1vXJ/LIVqHKL4r9ms1b9oBubEW5FRvjiRpRRN3o13cKwXilTrvfel5/JNwiUx6UexhTMolKMg=="
+  "exeMd5": "iqaCAriLC7kN/PYlxOgQw/Hoq0zFi2ljKE8vKJvX6han4Vmgo7EvAPUO0lZGZuCM2QOJowX65ATpN/b4Rguysd43yUG+zboKgf+CI1o+4+ir9PvFURRZ1WGj0Of4hwq5cLlRv774ODAiX+AAn463gUIwC0hKNZB8KElZGJWSdC8mLnQuKlanIxr6z3FLOoZ+Dg68FZs0u+pPPUlqkZBBCyLrL57JXqU6K9nvK5fEExBk+jyGm9ecXaEURc2Mm52mcw6ou/NXS6LaK+JtFtWken7j5fcpbKmZl+CVy74U0tez5B/vPo2HhvMdFq6KvsJ4Ugx4P/d8uf0ltj7qzbPC+pWlSK6cNyhbqyHOh+RK+Ax0wJXjej0BPuUSsSXS5RQXGS3QnG4VW1IvNiH1NdvPu3dNMEBto8WPjViSTNkdCkFnXob0F0QSEFSwjIj6lD0deMzxk+1z2ghw3j0jWA=="
 }
