@@ -12,7 +12,7 @@
 {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Siren","name":"🎉️私人","type":3,"api":"csp_Siren","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Wwys","name":"👩‍🌾农民","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wwgz.cn"},
+{"key":"农民","name":"👩‍🌾农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"请求头":"手机","编码":"UTF-8","简介":"简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-time-class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
 {"key":"csp_Lkdy","name":"🏔️来看","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
 {"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
