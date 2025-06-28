@@ -17,6 +17,10 @@
       "type_id":"综艺"
     },
     {
+      "type_name":"短剧",
+      "type_id":"短剧"
+    },
+    {
       "type_name":"沙雕动漫",
       "type_id":"一口气沙雕动漫"
     },
