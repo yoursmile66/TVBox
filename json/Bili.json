@@ -1,12 +1,24 @@
 {
   "class": [
     {
-      "type_name":"沙雕动漫",
-      "type_id":"一口气沙雕动漫"
+      "type_name":"电影",
+      "type_id":"电影"
+    },
+    {
+      "type_name":"电视剧",
+      "type_id":"电视剧"
     },
     {
       "type_name":"动漫",
-      "type_id":"动漫合集"
+      "type_id":"动漫"
+    },
+    {
+      "type_name":"综艺",
+      "type_id":"综艺"
+    },
+    {
+      "type_name":"沙雕动漫",
+      "type_id":"一口气沙雕动漫"
     },
     {
       "type_name":"纪录片",
