@@ -38,6 +38,7 @@
 {"key":"百思派","name":"💯百思派","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext":{"分类url":"https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html","分类":"电影$20#剧集$21#短剧$24#综艺$23#动漫$22"}},
 {"key":"csp_Lkdy","name":"🏔️来看","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"click":"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
+{"key":"ZXZJ","name":"🏠在线","api":"csp_Zxzj","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jgg449698khhh845ki38473"},
 {"key":"csp_Ddys","name":"📺低端","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ikanbot","name":"👾Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
