@@ -32,7 +32,6 @@ CCTV7,http://8.138.7.223/tv/cctv7.m3u8
 CCTV7,http://58.221.214.82:9901/tsfile/live/0007_1.m3u8
 CCTV8,http://218.3.138.25:1111/tsfile/live/1007_1.m3u8
 CCTV8,http://120.238.94.10:9901/tsfile/live/1026_1.m3u8
-CCTV8,http://110.7.131.79:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://36.105.100.208:35455/gaoma/cctv9.m3u8
 CCTV9,http://112.46.85.60:8009/hls/509/index.m3u8
 CCTV9,http://58.19.43.46:9901/tsfile/live/1028_1.m3u8
