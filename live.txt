@@ -125,7 +125,6 @@ CCTV2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream
 广西卫视,http://182.150.23.74:808/hls/31/index.m3u8
 广西卫视,http://113.25.252.226:9901/tsfile/live/0113_1.m3u8
 贵州卫视,http://58.19.43.46:9901/tsfile/live/1011_1.m3u8
-贵州卫视,http://110.7.131.40:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://58.57.40.22:9901/tsfile/live/1000_1.m3u8
 海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
 海南卫视,http://218.89.240.144:59901/tsfile/live/1000_1.m3u8
