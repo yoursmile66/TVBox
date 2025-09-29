@@ -19,9 +19,8 @@
   //默认代理端口 留空则使用外置代理:http://12345678:12345678@47.236.191.222:1080
   "tgPic": "true",
   //tgsou 图片显示与否
-  //每次更新jar 该值都必须更新
-  "exeMd5": "MqsWAsqm3Bjog/VvcImNo2U0qWGjsFsUCWWypTJKvliLQXv19zpbYoZ5RD/uuQr/jK5XdG5LLl1OFqkfi2fAFQM73UZO/GYWqgcH7nu4Ijp+Hn+J8+uecQqMXqzEV+aVro1x1CvZK/UPDLYA8oXx7r8EIq9M58GdF38y4WU+RA8aRKwNmW+4MqqzhxjzuMQsVYGx+e8YycBOWRuC3es5RnwpEJfnLKXPxWmYzjpIXqS4l4MxTKmGvikIOV6HfpkgD+lk8Kf0RejyUy0q3MyyTucDbTvEd7pIkWd2VsPnrq6E5Ps5LQ8iPhz4dl4KGvq6q5cORU8YCTVPLY+v5VZABrzw1pWhap9Ne0j4XoSLhdtknh64sxIHwMCMy267eriGuns6M4+joz+HXN1dgQLNpOrov4Z6qzpprbb9Fmorwsh6XCaXeBLygqaNwXzUu4lcCHfaCbqBgphWvW98Sg=="
 }
+
 
 
 
