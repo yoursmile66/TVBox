@@ -8,7 +8,6 @@ CCTV2,http://60.29.124.66:6080/hls/13/index.m3u8
 CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
 CCTV3,http://gmxw.7766.org:808/hls/91/index.m3u8
 CCTV3,http://60.29.124.66:6080/hls/14/index.m3u8
-CCTV4,http://116.9.204.242:9901/tsfile/live/0004_1.m3u8
 CCTV4,http://120.238.94.10:9901/tsfile/live/1021_1.m3u8
 CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8
@@ -43,7 +42,6 @@ CCTV13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV14,http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
 CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV14,http://116.9.204.242:9901/tsfile/live/0014_1.m3u8
 CCTV15,http://183.11.239.36:808/hls/102/index.m3u8
 CCTV15,http://58.19.43.46:9901/tsfile/live/1034_1.m3u8
 CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
@@ -52,8 +50,6 @@ CCTV17,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 CCTV17,http://58.19.43.46:9901/tsfile/live/1047_1.m3u8
 CCTV17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
 CCTV1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路354』
-CCTV5,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8
 CCTV6,http://zzssw01.55555.io:9901/tsfile/live/0006_1.m3u8
 CCTV7,http://8.138.7.223/tv/cctv7.m3u8
 CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -255,8 +251,6 @@ CCTV17,http://120.238.94.10:9901/tsfile/live/1048_1.m3u8
 东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广东卫视,http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8
 江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8
 江西卫视,http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
