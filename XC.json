@@ -7,7 +7,7 @@
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 
 	"sites":[
-{"key":"Tg|豆瓣","name":"🔍Tg豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,leoziyuan,ResourceUniverse,BaiduCloudDisk,SharePanBaidu,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,yunpanchat,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,Lsp115,alyp_1","commonConfig":"./json/peizhi.json","filter":"./json/douban.json"}},
+{"key":"Tg|豆瓣","name":"🔍Tg豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"}},
 {"key":"弹幕","name":"🅿弹幕|搜索","type":3,"api":"csp_ConfigCenter","jar":"https://jihulab.com/yoursmile6/TVBox/-/raw/main/custom_spider.jar"},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
@@ -22,7 +22,7 @@
 {"key":"huomaoys","name":"😺火猫","type":3,"api":"csp_Muou","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602"},
 {"key":"主角","name":"🍃主角","type":3,"api":"csp_Muou","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"},
 {"key":"云云","name":"☁云云","type":3,"api":"csp_Qiji","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"},
-{"key":"csp_Wwys","name":"👩‍🌾农民","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wwgz.cn"},
+{"key":"csp_Wwys","name":"👩‍🌾农民","type":3,"api":"csp_Wwys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vip.wwgz.cn:5200/"},
 {"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://shdy5.us"},
 {"key":"csp_FourK","name":"🌋绝对","type":3,"api":"csp_FourK","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.4kvm.me/"},
 {"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
