@@ -12,7 +12,6 @@
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key":"csp_Gz360","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"巧技二","name":"💢聚搜┃仅搜索","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"},
-{"key":"巧技五","name":"💢SOUSOU┃仅搜索","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"},
 {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
 {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
 {"key":"驿站","name":"🚗驿站","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg0939795i007gi48hk112jji7g1k69j079jj06g721j461kk7h703431g079j0g9hi15lg2j6232lk993i1g416hlg87i7l09i8khi6ij749j0lg77l9g154kg2gljkl1g625"},
