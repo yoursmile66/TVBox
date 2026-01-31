@@ -4,7 +4,7 @@
     "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
-    "是否开启获取首页数据": "0",
+    "是否开启获取首页数据": "1",
     "首页推荐链接": "http://www.yinghuadm.cn",
     "首页列表数组规则": "body&&.module-main.tab-list.active",
     "首页片单列表数组规则": ".module-item",

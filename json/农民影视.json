@@ -56,7 +56,7 @@
     "演员详情": "body&&.sDes:contains(主演:)&&Text!主演:",
     "简介详情": ".detail-con&&p&&Text!简介:",
     "线路列表数组规则": "#leftTabBox&&ul&&li",
-    "线路标题": "Text[替换:线路=>农民专线]",
+    "线路标题": "Text[替换:默认=>农民专线]",
     "播放列表数组规则": "#leftTabBox&&.numList",
     "选集列表数组规则": "li",
     "选集标题链接是否Jsoup写法": "1",
