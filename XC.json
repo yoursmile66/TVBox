@@ -37,6 +37,7 @@
 {"key":"csp_Ikanbot","name":"👾Ikanbot","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/jianpian.json"},
 {"key":"csp_Dygang","name":"🧲电影港","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xlys","name":"🧲修罗","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
 {"key":"csp_New6v","name":"🧲新6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DyGod","name":"🧲电影天堂","type":3,"api":"csp_DyGod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_QnMp4","name":"🧲七妹","type":3,"api":"csp_QnMp4","searchable":1,"quickSearch":1,"filterable":1},
