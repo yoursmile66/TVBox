@@ -1,5 +1,29 @@
 [
   {
+    "share_index": "个人网盘",
+    "share_name": "我的夸克盘",
+    "share_id": "selfquark",
+    "share_type":"quark"
+  },
+  {
+    "share_index": "个人网盘",
+    "share_name": "我的UC盘",
+    "share_id": "selfuc",
+    "share_type":"uc"
+  },
+  {
+    "share_index": "个人网盘",
+    "share_name": "我的摆渡盘",
+    "share_id": "selfbaidu",
+    "share_type":"baidu"
+  },
+  {
+    "share_index": "个人网盘",
+    "share_name": "我的115盘",
+    "share_id": "self115",
+    "share_type":"115"
+  },
+  {
     "share_index": "夸克",
     "share_name": "MTV精选1万首夸克",
     "share_id": "3e458103b556"
