@@ -13,12 +13,6 @@
   },
   {
     "share_index": "个人网盘",
-    "share_name": "我的摆渡盘",
-    "share_id": "selfbaidu",
-    "share_type":"baidu"
-  },
-  {
-    "share_index": "个人网盘",
     "share_name": "我的115盘",
     "share_id": "self115",
     "share_type":"115"
