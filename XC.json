@@ -26,6 +26,7 @@
 {"key":"灵虎","name":"🦁灵虎","type":3,"api":"csp_Xdai","ext":"7lj763gg402i7942532384j7lk0ljji7ghl19313j490266k0g1855k7k103474j1i9349h68842h3h016399jj1g6gk4jlhh367714gk5g2jhji12g819j33jlj1l15k6g492l0"},
 {"key":"永夜","name":"🌙永夜","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"},
 {"key":"番薯","name":"💢番薯","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i79425l2l9j9jh14i9ijil0h1jk58ih8633354h0l18lil40h755g029i0ghhil4gh89i133hk9i9l1k604i9g4797k09k8k5j3j73kgj1hg725gg575ig9g790"},
+{"key":"厂长","name":"🏭厂长","type":3,"api":"csp_CzzyAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
 {"key":"csp_Jianpian","name":"✂️荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/jianpian.json"},
 {"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://saohuody.com"},
 {"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1},
