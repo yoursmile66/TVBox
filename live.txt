@@ -86,12 +86,6 @@ CGTN,https://play.kankanlive.com/live/1698423645566913.m3u8
 CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
 熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CCTV7,http://8.138.7.223/tv/cctv7.m3u8
@@ -135,7 +129,6 @@ CCTV16,http://183.11.239.36:808/hls/169/index.m3u8
 广西卫视,http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
 广西卫视,http://hmfs.f3322.net:3388/hls/27/index.m3u8
 广西卫视,http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-贵州卫视,http://cssbyd.imwork.net:8082/hls/39/index.m3u8
 贵州卫视,http://182.150.23.74:808/hls/26/index.m3u8
 贵州卫视,http://111.61.236.247:9081/hls/37/index.m3u8
 海南卫视,http://58.57.40.22:9901/tsfile/live/1000_1.m3u8
@@ -152,7 +145,6 @@ CCTV16,http://183.11.239.36:808/hls/169/index.m3u8
 河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
 河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8
 湖北卫视,http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
 湖北卫视,http://182.150.23.74:808/hls/28/index.m3u8
 湖南卫视,http://58.57.40.22:9901/tsfile/live/1028_1.m3u8
@@ -192,7 +184,6 @@ CCTV16,http://183.11.239.36:808/hls/169/index.m3u8
 深圳卫视,http://183.11.239.36:808/hls/45/index.m3u8
 四川卫视,http://58.57.40.22:9901/tsfile/live/1046_1.m3u8
 四川卫视,http://183.11.239.36:808/hls/50/index.m3u8
-四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
 天津卫视,http://58.57.40.22:9901/tsfile/live/1034_1.m3u8
 天津卫视,http://120.211.62.180:8000/hls/36/index.m3u8
 天津卫视,http://183.11.239.36:808/hls/42/index.m3u8
@@ -228,7 +219,6 @@ CCTV16,http://183.11.239.36:808/hls/169/index.m3u8
 内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8
 内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
