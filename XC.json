@@ -6,6 +6,7 @@
 
 	"sites":[
 {"key":"Tg豆瓣","name":"🔍Tg豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"Tgsearchers6,peccxinpd,yunpan139,yggpan,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan","commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"}},
+{"key":"弹幕","name":"Ⓜ️嗷呜弹幕设置","type":3,"api":"csp_AAConfigAmns","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
 {"key":"csp_GuaZi","name":"🍉瓜子","type":3,"api":"csp_GuaziAmns","searchable":1,"filterable":1,"quickSearch":1,"ext":{"sites":"","filters":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/guazi.json"},"jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"key":"天天","name":"⛅天天","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
