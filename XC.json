@@ -35,7 +35,6 @@
 {"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.meijumi.net/"},
 {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://dm84.net"},
-{"key":"番薯","name":"💢番薯动漫","type":3,"api":"csp_Xdai","playerType":2,"ext":"7lj763gg402i79425l2l9j9jh14i9ijil0h1jk58ih8633354h0l18lil40h755g029i0ghhil4gh89i133hk9i9l1k604i9g4797k09k8k5j3j73kgj1hg725gg575ig9g790"},
 {"key":"鸭梨","name":"💢鸭梨动漫（仅搜索）","type":3,"api":"csp_Qiji","ext":"7lj763gg402i7942452h85j1h153i28hl3g4i35hj98772225j4i54khl0195l03559i4kh8964kihji6348k580g5lk40h2g630710jh0kgj7g47kjj68gh6ilk4l18glg192g7g5237g64ii126k"},
 {"name":"☕韩剧","key":"Hxq","type":3,"api":"csp_HxqAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐲漫剧","key":"MjHggg","type":3,"api":"csp_HgggAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"comic_series","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
