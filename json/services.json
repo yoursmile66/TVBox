@@ -1,0 +1,31 @@
+{
+  "services": [
+    {
+      "id": "danmu_api",
+      "package":"nodejs",
+      "auto_start": false,
+      "binary": "node",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/17/34/871734bc-6a96-b3bb-55d4-72908f285eef/AppIcon-0-0-1x_U007ephone-0-5-0-85-220-0.png/460x0w.webp",
+      "default_command": "node /storage/emulated/0/VodPlus/danmu_api/danmu_api/server.js",
+      "dependencies": ["libc++", "c-ares", "openssl", "libffi", "libicu", "libsqlite", "zlib"],
+      "quick_options": [
+        "node /storage/emulated/0/VodPlus/danmu_api/danmu_api/server.js",
+        "node -v"
+      ]
+    },
+    //https://github.com/termux/termux-packages/blob/master/packages/ttyd/build.sh
+    {
+      "id": "ttyd_service",
+      "package": "ttyd",
+      "binary": "ttyd",
+      "icon": "https://raw.githubusercontent.com/tsl0922/ttyd/main/html/src/favicon.png",
+      "default_command": "ttyd -p 7681 -W /system/bin/sh",
+      "dependencies": ["json-c", "libcap", "libuv", "libwebsockets", "openssl", "zlib"],
+      "quick_options": [
+        "ttyd -p 7681 -W /system/bin/sh",
+        "ttyd -p 7681 -c user:pass /system/bin/sh",
+        "ttyd --version"
+      ]
+    }
+  ]
+}
