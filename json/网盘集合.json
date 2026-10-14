@@ -7,15 +7,15 @@
   },
   {
     "share_index": "个人网盘",
-    "share_name": "我的摆渡盘",
-    "share_id": "selfbaidu",
-    "share_type":"baidu"
-  },
-  {
-    "share_index": "个人网盘",
     "share_name": "我的UC盘",
     "share_id": "selfuc",
     "share_type":"uc"
+  },
+  {
+    "share_index": "个人网盘",
+    "share_name": "我的摆渡盘",
+    "share_id": "selfbaidu",
+    "share_type":"baidu"
   },
   {
     "share_index": "个人网盘",
@@ -24,33 +24,23 @@
     "share_type":"115"
   },
   {
-    "share_index": "夸克",
-    "share_name": "MTV精选1万首夸克",
-    "share_id": "3e458103b556"
+    "share_index": "个人网盘",
+    "share_name": "我的光鸭盘",
+    "share_id": "selfguangya",
+    "share_type":"guangya"
   },
   {
-    "share_index": "夸克",
-    "share_name": "夸克MV",
-    "share_id": "e10ef5a111e5"
+    "share_index": "豆瓣",
+    "share_name": "TOP250电影_1.67TB",
+    "share_id": "swz93883nhj",
+    "share_pwd": "sa53",
+    "share_type": "115"
   },
   {
-    "share_index": "夸克",
-    "share_name": "短剧夸克",
-    "share_id": "5173a250c8f7"
-  },
-  {
-    "share_index": "阿里",
-    "share_name": "短剧",
-    "share_id": "5Fzz7JFuQyg"
-  },
-  {
-    "share_name": "GRT易和谐电影",
-    "share_id": "6LvWZoQo3nS"
-  },
-  {
-    "share_index": "阿里",
-    "share_name": "xiaaluo",
-    "share_id": "sg8CdGUwmUr"
+    "share_index":"115电视剧",
+    "share_name": "115-国产剧1",
+    "share_id": "swn2dzn3zx1",
+    "share_pwd":"d994",
+    "share_type":"115"
   }
 ]
-
