@@ -1,6 +1,6 @@
 {
   "services":"./json/services.json",
-  "panOrder": "quark|dp|uc|ali|yd|ty|p123|115###原畫|普畫",
+  "panOrder": "quark|dp|uc|ali|yd|p123|ty|115###原畫|普畫",
   "aliToken": "",
   "quarkCookie": "",
   "ucCookie": "",
