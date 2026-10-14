@@ -1,6 +1,18 @@
 {
 "class": [
     {
+      "type_name": "推荐",
+      "type_id": "recm"
+    },
+    {
+      "type_name": "热门",
+      "type_id": "hot"
+    },
+    {
+      "type_name": "观看历史",
+      "type_id": "his"
+    },
+    {
       "type_name": "单口相声",
       "type_id": "单口相声"
     },
