@@ -1,6 +1,20 @@
 {
   "services": [
     {
+      "id": "torrserver",
+      "package": "none",
+      "auto_start": false,
+      "binary": "torrserver",
+      "icon": "https://fastly.jsdelivr.net/gh/YouROK/TorrServer@master/client/src/assets/icon.png",
+      "default_command": "torrserver -p 8090 -d /storage/emulated/0/VodPlus/torrserver",
+      "dependencies": [],
+      "quick_options": [
+        "torrserver",
+        "torrserver -p 8090 -k -d /storage/emulated/0/VodPlus/torrserver",
+        "torrserver -v"
+      ]
+    },
+    {
       "id": "danmu_api",
       "package":"nodejs",
       "auto_start": false,
