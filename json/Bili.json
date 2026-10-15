@@ -41,10 +41,6 @@
       "type_id":"纪录片超清"
     },
     {
-      "type_name":"演唱会",
-      "type_id":"演唱会超清"
-    },
-    {
       "type_name":"美食",
       "type_id":"美食超清"
     },
@@ -79,30 +75,6 @@
     {
       "type_name":"探索发现",
       "type_id":"探索发现超清"
-    },
-    {
-      "type_name":"鬼畜",
-      "type_id":"鬼畜"
-    },
-    {
-      "type_name":"搞笑",
-      "type_id":"搞笑超清"
-    },
-    {
-      "type_name":"儿童",
-      "type_id":"儿童超清"
-    },
-    {
-      "type_name":"动物世界",
-      "type_id":"动物世界超清"
-    },
-    {
-      "type_name":"相声小品",
-      "type_id":"相声小品超清"
-    },
-    {
-      "type_name":"戏曲",
-      "type_id":"戏曲"
     },
     {
       "type_name":"解说",
@@ -161,14 +133,6 @@
       "type_id":"4K"
     },
     {
-      "type_name":"电影",
-      "type_id":"电影"
-    },
-    {
-      "type_name":"电视剧",
-      "type_id":"电视剧"
-    },
-    {
       "type_name":"考公考证",
       "type_id":"考公考证"
     },
@@ -191,10 +155,6 @@
     {
       "type_name": "鬼畜",
       "type_id": "鬼畜"
-    },
-    {
-      "type_name": "Sports",
-      "type_id": "球星"
     },
     {
       "type_name": "戏曲",
